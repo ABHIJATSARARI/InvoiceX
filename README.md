@@ -103,6 +103,12 @@ Try the full experience without blockchain setup:
 
 ---
 
+## 🛠️ Built With
+
+**React, TypeScript, Vite, Node.js, Google Gemini API, MetaMask, Web3, Lucide React, LocalStorage API, Forex API, CSS3, HTML5, Git, npm, QIE Blockchain**
+
+---
+
 ## 🏗️ Architecture
 
 ### Tech Stack
