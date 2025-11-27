@@ -13,7 +13,9 @@
 
 **Transform invoices into NFTs • Access instant liquidity • Enable global investment**
 
-[Live Demo](#-demo-mode) • [Features](#-key-features) • [Getting Started](#-quick-start) • [Architecture](#-architecture)
+### 🌐 [**Live App →**](https://abhijatsarari.github.io/InvoiceX)
+
+[Features](#-key-features) • [Getting Started](#-quick-start) • [Architecture](#-architecture) • [Demo Mode](#-demo-mode)
 
 </div>
 
